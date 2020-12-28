@@ -2,7 +2,7 @@
 
 So far this program is built soley for Windows terminals.
 
+It displays the falling green code you'd see on the terminals in the famous film series The Matrix
+
 ### Why is there that "Don't touch my stuff" message
-It's because this program was originally built to have something cool
-display while I go grab food nearby the library and leave my belongings
-behind.
+This program was used as my laptop wallpaper whenever I left to grab lunch.
